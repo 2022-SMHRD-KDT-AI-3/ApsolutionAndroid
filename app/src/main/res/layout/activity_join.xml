@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/joinpw"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".JoinActivity"
+    tools:layout_editor_absoluteX="-20dp"
+    tools:layout_editor_absoluteY="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout6"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/regbtn6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/app_font"
+            android:text="회원가입"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/join_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="360dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/app_font"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/back" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <EditText
+        android:id="@+id/join_add"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@drawable/regbtn2"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/joinaddress"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/joinaddress"
+        app:layout_constraintTop_toBottomOf="@+id/joinaddress"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        tools:ignore="TouchTargetSizeCheck"/>
+
+    <TextView
+        android:id="@+id/joinaddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/app_font"
+        android:text="@string/joinaddress_text"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/join_tel" />
+
+    <EditText
+        android:id="@+id/join_id"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@drawable/regbtn2"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/joinid"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/joinid"
+        app:layout_constraintTop_toBottomOf="@+id/joinid"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        tools:ignore="TouchTargetSizeCheck"/>
+
+    <TextView
+        android:id="@+id/joinid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="322dp"
+        android:fontFamily="@font/app_font"
+        android:text="@string/joinid_text"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout6" />
+
+    <TextView
+        android:id="@+id/jointel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/app_font"
+        android:text="@string/jointel_text"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/join_name" />
+
+    <EditText
+        android:id="@+id/join_tel"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@drawable/regbtn2"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/jointel"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/jointel"
+        app:layout_constraintTop_toBottomOf="@+id/jointel"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        tools:ignore="TouchTargetSizeCheck"/>
+
+    <EditText
+        android:id="@+id/join_pwcheck"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@drawable/regbtn2"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPassword"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        app:layout_constraintEnd_toEndOf="@+id/joinpwck"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/joinpwck"
+        app:layout_constraintTop_toBottomOf="@+id/joinpwck"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/joinpwck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/app_font"
+        android:text="@string/joinpwck_text"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/join_pw" />
+
+    <EditText
+        android:id="@+id/join_name"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@drawable/regbtn2"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/joinname"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/joinname"
+        app:layout_constraintTop_toBottomOf="@+id/joinname"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        tools:ignore="TouchTargetSizeCheck"/>
+
+    <TextView
+        android:id="@+id/joinname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/app_font"
+        android:text="@string/joinname_text"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/join_pwcheck" />
+
+    <EditText
+        android:id="@+id/join_pw"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@drawable/regbtn2"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPassword"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        tools:ignore="TouchTargetSizeCheck"
+        app:layout_constraintEnd_toEndOf="@+id/joinpwck1"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/joinpwck1"
+        app:layout_constraintTop_toBottomOf="@+id/joinpwck1" />
+
+    <TextView
+        android:id="@+id/joinpwck1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/app_font"
+        android:text="@string/joinpw_text"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/join_id" />
+
+    <android.widget.Button
+        android:id="@+id/join_idcheck"
+        android:layout_width="84dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="65dp"
+        android:background="@drawable/btnline2"
+        android:fontFamily="@font/app_font"
+        android:text="@string/ckbtn_text"
+        android:textColor="#272727"
+
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@+id/join_id"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/join_id"
+        app:layout_constraintTop_toTopOf="@+id/join_id"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <android.widget.Button
+        android:id="@+id/btnjoin"
+        android:layout_width="140dp"
+        android:layout_height="48dp"
+        android:background="@drawable/btnline3"
+        android:fontFamily="@font/app_font"
+        android:text="@string/submitbtn_text"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/join_add"
+        app:layout_constraintVertical_bias="0.285" />
+
+    <android.widget.Button
+        android:id="@+id/pwckbtn"
+        android:layout_width="84dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="22dp"
+        android:background="@drawable/btnline2"
+        android:fontFamily="@font/app_font"
+        android:text="@string/pwckbtn"
+        android:textColor="#272727"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@+id/join_pwcheck"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/join_pwcheck"
+        app:layout_constraintTop_toTopOf="@+id/join_pwcheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

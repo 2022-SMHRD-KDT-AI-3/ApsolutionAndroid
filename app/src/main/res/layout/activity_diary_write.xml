@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Diary_List_Activity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/result_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/app_font"
+            android:text="영농일지"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/diary_write_back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="360dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/app_font"
+            android:scaleType="fitCenter"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/back"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="80dp" />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="26dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.45" />
+
+    <android.widget.Button
+        android:id="@+id/btnwrite"
+        android:layout_width="140dp"
+        android:layout_height="48dp"
+        android:background="@drawable/btnline3"
+        android:fontFamily="@font/app_font"
+        android:text="작성하기"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/detail_c" />
+
+    <TextView
+        android:id="@+id/field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/app_font"
+        android:text="@string/filed"
+        app:layout_constraintBottom_toTopOf="@+id/pest"
+        app:layout_constraintEnd_toStartOf="@+id/guideline11"
+        app:layout_constraintHorizontal_bias="0.541"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toTopOf="@+id/guideline9"
+        app:layout_constraintVertical_bias="0.61" />
+
+    <TextView
+        android:id="@+id/pest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/app_font"
+        android:text="@string/pest"
+        app:layout_constraintBottom_toTopOf="@+id/pest_use"
+        app:layout_constraintEnd_toStartOf="@+id/guideline11"
+        app:layout_constraintHorizontal_bias="0.393"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toBottomOf="@+id/field" />
+
+    <TextView
+        android:id="@+id/pest_use"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/app_font"
+        android:text="@string/pest_use"
+        app:layout_constraintBottom_toTopOf="@+id/water"
+        app:layout_constraintEnd_toStartOf="@+id/guideline11"
+        app:layout_constraintHorizontal_bias="0.294"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toBottomOf="@+id/pest" />
+
+    <TextView
+        android:id="@+id/water"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/app_font"
+        android:text="@string/water_use"
+        app:layout_constraintBottom_toTopOf="@+id/ph"
+        app:layout_constraintEnd_toStartOf="@+id/guideline11"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toBottomOf="@+id/pest_use" />
+
+    <TextView
+        android:id="@+id/ph"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/app_font"
+        android:text="@string/ph"
+        app:layout_constraintBottom_toTopOf="@+id/sects"
+        app:layout_constraintEnd_toStartOf="@+id/guideline11"
+        app:layout_constraintHorizontal_bias="0.325"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toBottomOf="@+id/water" />
+
+    <TextView
+        android:id="@+id/sects"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/app_font"
+        android:text="@string/sects"
+        app:layout_constraintBottom_toTopOf="@+id/detail"
+        app:layout_constraintEnd_toStartOf="@+id/guideline11"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toBottomOf="@+id/ph" />
+
+    <EditText
+        android:id="@+id/field_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/field"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline11"
+        app:layout_constraintTop_toTopOf="@+id/field" />
+
+    <TextView
+        android:id="@+id/detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/app_font"
+        android:text="@string/detail"
+        app:layout_constraintBottom_toTopOf="@+id/btnwrite"
+        app:layout_constraintEnd_toStartOf="@+id/guideline11"
+        app:layout_constraintHorizontal_bias="0.229"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toBottomOf="@+id/sects" />
+
+    <EditText
+        android:id="@+id/pest_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/pest"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline11"
+        app:layout_constraintTop_toTopOf="@+id/pest" />
+
+    <EditText
+        android:id="@+id/pest_use_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/pest_use"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView10"
+        app:layout_constraintStart_toStartOf="@+id/guideline11"
+        app:layout_constraintTop_toTopOf="@+id/pest_use" />
+
+    <EditText
+        android:id="@+id/water_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/water"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline11"
+        app:layout_constraintTop_toTopOf="@+id/water"
+        app:layout_constraintVertical_bias="0.692" />
+
+    <EditText
+        android:id="@+id/ph_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/ph"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline11"
+        app:layout_constraintTop_toTopOf="@+id/ph" />
+
+    <EditText
+        android:id="@+id/sects_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/sects"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline11"
+        app:layout_constraintTop_toTopOf="@+id/sects" />
+
+    <EditText
+        android:id="@+id/detail_c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/app_font"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/detail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline11"
+        app:layout_constraintTop_toTopOf="@+id/detail"
+        app:layout_constraintVertical_bias="0.51" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/field"
+        app:layout_constraintEnd_toStartOf="@+id/field_c"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/field"
+        app:layout_constraintTop_toTopOf="@+id/field"
+        app:layout_constraintVertical_bias="0.722"
+        app:srcCompat="@drawable/icon1" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/pest"
+        app:layout_constraintEnd_toStartOf="@+id/pest_c"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/pest"
+        app:layout_constraintTop_toTopOf="@+id/pest"
+        app:layout_constraintVertical_bias="0.777"
+        app:srcCompat="@drawable/icon2" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/pest_use"
+        app:layout_constraintEnd_toStartOf="@+id/pest_use_c"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/pest_use"
+        app:layout_constraintTop_toTopOf="@+id/pest_use"
+        app:layout_constraintVertical_bias="0.722"
+        app:srcCompat="@drawable/icon3" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/water"
+        app:layout_constraintEnd_toStartOf="@+id/water_c"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/water"
+        app:layout_constraintTop_toTopOf="@+id/water"
+        app:layout_constraintVertical_bias="0.95"
+        app:srcCompat="@drawable/icon4" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/ph"
+        app:layout_constraintEnd_toStartOf="@+id/ph_c"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/ph"
+        app:layout_constraintTop_toTopOf="@+id/ph"
+        app:layout_constraintVertical_bias="0.722"
+        app:srcCompat="@drawable/icon5" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/sects"
+        app:layout_constraintEnd_toStartOf="@+id/sects_c"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/sects"
+        app:layout_constraintTop_toTopOf="@+id/sects"
+        app:layout_constraintVertical_bias="0.722"
+        app:srcCompat="@drawable/icon6" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/detail"
+        app:layout_constraintEnd_toStartOf="@+id/detail_c"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/detail"
+        app:layout_constraintTop_toTopOf="@+id/detail"
+        app:layout_constraintVertical_bias="0.777"
+        app:srcCompat="@drawable/icon7" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">MaterialCalendarView</string>
+
+    <string-array name="custom_weekdays">
+        <item>일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+    </string-array>
+
+    <string-array name="custom_months">
+        <item>1월</item>
+        <item>2월</item>
+        <item>3월</item>
+        <item>4월</item>
+        <item>5월</item>
+        <item>6월</item>
+        <item>7월</item>
+        <item>8월</item>
+        <item>9월</item>
+        <item>10월</item>
+        <item>11월</item>
+        <item>12월</item>
+    </string-array>
+
+    <!-- login.xml   -->
+    <string name="logotext_text">Apsolution</string>
+    <string name="id_hint">E_mail@gmail.com</string>
+    <string name="pw_hint">Password</string>
+    <string name="find_text">아이디 찾기 / 비밀번호 찾기</string>
+    <string name="loginbtn_text">로그인</string>
+    <string name="joinbtn_text">회원가입</string>
+    <string name="cb_save_text">로그인 상태 유지</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--join.xml    -->
+    <string name="join_text">회원가입</string>
+    <string name="joinid_text">아이디</string>
+    <string name="joinpw_text">비밀번호</string>
+    <string name="joinpwck_text">비밀번호 확인</string>
+    <string name="pwckbtn">확인</string>
+    <string name="joinname_text">이름</string>
+    <string name="jointel_text">전화번호</string>
+    <string name="joinaddress_text">주소</string>
+    <string name="ckbtn_text">중복체크</string>
+    <string name="submitbtn_text">가입하기</string>
+
+    =======
+    <!--activity_my_page_edit.xml   -->
+    <string name="name_text">이름</string>
+    <string name="phone_text">연락처</string>
+    <string name="address_text">주소</string>
+    <string name="revise_text">수정하기</string>
+    <string name="delete_text">탈퇴하기</string>
+
+
+    <!-- activity_camera.xml -->
+    <string name="btn_capture">사진찍기</string>
+    <string name="btn_gallery">갤러리</string>
+    <string name="btn_send">진단받기</string>
+
+
+    <!--pro_look.xml-->
+    <string name="pro_name">이름</string>
+    <string name="pro_phone">연락처</string>
+    <string name="pro_home">회사주소</string>
+    <string name="pic_text">사진 수정</string>
+    <string name="pro_btn">전화 연결</string>
+    <string name="pro_info">소개</string>
+
+    <!--pro_reg.xml-->
+    <string name="pic_reg">사진등록</string>
+    <string name="pro_reg">등록하기</string>
+
+
+    <!--upbar-->
+    <string name="ins_list">진단결과 조회</string>
+
+
+    <!--diary_list.xml-->
+    <string name="filed">필지</string>
+    <string name="pest">사용 농약</string>
+    <string name="pest_use">농약 사용량</string>
+    <string name="water_use">관수량</string>
+    <string name="ph">토양산성도</string>
+    <string name="sects">병충해 의심여부</string>
+    <string name="detail">상세작업내용</string>
+
+
+    <string name="main_title">6~7월에 발병하는 질병은 "사과갈색무늬병" 입니다!</string>
+</resources>

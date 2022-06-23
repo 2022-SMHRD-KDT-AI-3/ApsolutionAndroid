@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/drawable/regbtn3.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/drawable/regbtn5.xml" value="0.1375" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_app_start.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_cal.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_cal_list.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_camera.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_diary.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_diary_list.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_gal_actiivity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_ins_after.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_ins_result_list.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_join.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_main_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_main_volley2.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_my_page_edit.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_my_page_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_my_page_pro.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_pro_list.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_pro_look.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_pro_reg.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_proinfopage.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_result.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/activity_result_lookup.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/fragment_diary__cal_2.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/fragment_ins__before_1.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/fragment_main_page_5.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/fragment_my_page__main_3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/layout/fragment_pro_list_4.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0614_save/app/src/main/res/menu/item_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/btnline.xml" value="0.2045" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/btnline2.xml" value="0.1755" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/btnline3.xml" value="0.1405" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/btnline4.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/button_pattern.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/calendar_selector.xml" value="0.145" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/date_border.xml" value="0.145" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/menu_color.xml" value="0.145" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/regbtn.xml" value="0.2045" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/regbtn2.xml" value="0.2045" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/regbtn3.xml" value="0.2045" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/regbtn4.xml" value="0.2045" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/regbtn5.xml" value="0.2045" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/regbtn6.xml" value="0.2045" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/drawable/transparent_calendar_element.xml" value="0.145" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_appstart.xml" value="0.287962962962963" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_camera.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_diary.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_diary_write.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_gal_actiivity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_join.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_login.xml" value="0.287962962962963" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_main_page.xml" value="0.3189873417721519" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_main_volley2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_mypage_edit.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_mypage_main.xml" value="0.287962962962963" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_mypage_pro.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_pro_look.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_prolist.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_prolist_contents.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_result.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_resultcheck.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_resultlist.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/activity_resultlist_contents.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/fragment_diary__cal_2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/fragment_ins__before_1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/fragment_main_page_5.xml" value="0.287962962962963" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/fragment_my_page__main_3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615 (5)/app/src/main/res/layout/fragment_pro_list_4.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_app_start.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_appstart.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_cal.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_cal_list.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_camera.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_diary.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_diary_list.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_diary_write.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_gal_actiivity.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_ins_after.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_ins_result_list.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_join.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_login.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_main_page.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_main_volley2.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_my_page_main.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_my_page_pro.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_mypage_edit.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_mypage_main.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_mypage_pro.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_pro_list.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_pro_look.xml" value="0.29842931937172773" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_pro_reg.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_proinfopage.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_prolist.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_prolist_contents.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_result.xml" value="0.29842931937172773" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_resultcheck.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_resultlist.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/activity_resultlist_contents.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/fragment_diary__cal_2.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/fragment_ins__before_1.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/fragment_main_page_5.xml" value="0.2605042016806723" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/fragment_my_page__main_3.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView0615/app/src/main/res/layout/fragment_pro_list_4.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/button_pattern.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/calendar_selector.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/date_border.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/regbtn.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/regbtn2.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/regbtn3.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/regbtn4.xml" value="0.2835" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/drawable/transparent_calendar_element.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_app_start.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_cal.xml" value="0.32653985507246375" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_cal_list.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_camera.xml" value="0.22" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_diary.xml" value="0.22" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_gal_actiivity.xml" value="0.2" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_ins_after.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_ins_result_list.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_join.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_main.xml" value="0.2572463768115942" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_main2.xml" value="0.28894927536231885" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_main3.xml" value="0.28894927536231885" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_main_page.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_my_page_edit.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_my_page_main.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_my_page_pro.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_pro_list.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_pro_look.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_pro_reg.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_proinfopage.xml" value="0.28894927536231885" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_result.xml" value="0.29814814814814816" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_result_look.xml" value="0.28894927536231885" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/activity_result_lookup.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/fragment_diary__cal_2.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/fragment_ins__before_1.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/layout/fragment_my_page__main_3.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/menu/item_menu.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/MaterialCalendarView2/app/src/main/res/xml/file_path.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView/app/src/main/res/drawable/calendar_selector.xml" value="0.1955" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView/app/src/main/res/drawable/date_border.xml" value="0.2585" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView/app/src/main/res/drawable/more.xml" value="0.2585" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView/app/src/main/res/drawable/transparent_calendar_element.xml" value="0.1955" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView/app/src/main/res/menu/menu_default_calendar_activity.xml" value="0.26458333333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/drawable/calendar_selector.xml" value="0.1" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_cal.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_cal_list.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_camera.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_diary.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_gal_actiivity.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_ins_after.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_ins_result_list.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_login.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_main.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_main_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_my_page_edit.xml" value="0.3223958333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_my_page_main.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_my_page_pro.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_pro_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_proinfopage.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_result.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/activity_result_lookup.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/fragment_diary__cal_2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/fragment_ins__before_1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/fragment_main_page_5.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/fragment_my_page__main_3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/layout/fragment_pro_list_4.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/smhrd/Documents/AndroidProjects/MaterialCalendarView0614_am10/app/src/main/res/menu/item_menu.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
